@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SPS_Game</string>
+    <string name="rules">RULES</string>
+    <string name="rock">
+        ROCK\nPAPER\nSCISSORS
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_0">0</string>
+    <string name="you_picked">YOU PICKED</string>
+    <string name="play_again">PLAY AGAIN</string>
+</resources>
